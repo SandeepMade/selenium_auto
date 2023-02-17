@@ -6,4 +6,4 @@ command to run script --> npx wdio wdio.conf.js
 
  #-------------------------------------------------------------#
  specs  file fitPeo_Scenarios.js 
- Pageobject file 
+ Pageobject file login.page.js, page.js 
